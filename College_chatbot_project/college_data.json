@@ -1,0 +1,49 @@
+{
+  "faculty": [
+    {
+      "name": "Dr. John Doe",
+      "department": "Computer Science and Engineering",
+      "qualification": "Ph.D. in Computer Science",
+      "research_interests": "Artificial Intelligence, Machine Learning",
+      "contact": "john.doe@svce.edu.in"
+    },
+    {
+      "name": "Prof. Jane Smith",
+      "department": "Electronics and Communication",
+      "qualification": "M.Tech in Electronics",
+      "research_interests": "VLSI Design, Embedded Systems",
+      "contact": "jane.smith@svce.edu.in"
+    }
+  ],
+  "courses": [
+    {
+      "name": "B.Tech in Computer Science",
+      "duration": "4 years",
+      "specializations": ["Data Science", "Artificial Intelligence", "Cybersecurity"]
+    },
+    {
+      "name": "B.Tech in Electronics and Communication",
+      "duration": "4 years",
+      "specializations": ["VLSI Design", "Embedded Systems"]
+    },
+    {
+        "name": "B.Tech in Mech",
+        "duration": "4 years"
+    }
+  ],
+  "fee_structure": {
+    "B.Tech": {
+      "tuition_fee": "₹1,00,000 per year",
+      "hostel_fee": "₹30,000 per year",
+      "other_charges": "₹20,000 per year"
+    }
+  },
+  "placements": {
+    "2023": {
+      "placement_rate": "85%",
+      "average_package": "₹5 LPA",
+      "highest_package": "₹10 LPA",
+      "notable_recruiters": ["TCS", "Wipro", "Infosys", "Cognizant"]
+    }
+  }
+}
